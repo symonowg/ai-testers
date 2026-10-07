@@ -1,0 +1,26 @@
+{
+  "name": "ai-testers",
+  "version": "1.0.0",
+  "description": "AI Testers training repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "npx tsx hello.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symonowg/ai-testers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/symonowg/ai-testers/issues"
+  },
+  "homepage": "https://github.com/symonowg/ai-testers#readme",
+  "dependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}
